@@ -3,8 +3,8 @@
 To better understand the growth and impact of Bitcoin and other cryptocurrencies, this project explores the market capitalization of different cryptocurrencies.
 
 ## Files
-1) data - Market cap of 2018 & 2017 in csv format
-2) notebook - .ipynb file with EDA on the data
+1) data - disney_movies_total_gross.csv 
+2) notebook - notebook.ipynb file with EDA on the data
 
 ## Libraries
 pandas, matplotlib
